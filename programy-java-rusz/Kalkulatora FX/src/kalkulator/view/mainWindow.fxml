@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.BorderPane?>
+
+<BorderPane prefHeight="350.0" prefWidth="230.0" xmlns="http://javafx.com/javafx/10.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="kalkulator.view.mainWindowController">
+   <top>
+      <TextField fx:id="numberField" prefHeight="135.0" prefWidth="230.0" BorderPane.alignment="CENTER" />
+   </top>
+</BorderPane>
